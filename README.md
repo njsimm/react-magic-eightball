@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to my Magic Eightball! This is a fun mini-project I completed while learning React.
+- Welcome to my Magic Eightball! This is a fun mini-project I completed while learning React.
+- [Try it out here on GitHub Pages](https://njsimm.github.io/react-magic-eightball/)
 
 ## Ask Anything!
 
